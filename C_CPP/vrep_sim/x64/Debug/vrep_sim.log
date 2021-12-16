@@ -1,0 +1,21 @@
+﻿  encoder.cpp
+C:\Users\Love Panta\OneDrive\Documents\copeliasim\C_CPP\vrep_sim\src\actuator\encoder.cpp(1,9): fatal error C1083: Cannot open include file: 'encoder.h': No such file or directory
+  inversekinematics.cpp
+C:\Users\Love Panta\OneDrive\Documents\copeliasim\C_CPP\vrep_sim\src\actuator\inversekinematics.cpp(1,9): fatal error C1083: Cannot open include file: 'inversekinematics.h': No such file or directory
+  motor.cpp
+C:\Users\Love Panta\OneDrive\Documents\copeliasim\C_CPP\vrep_sim\src\actuator\motor.cpp(1,9): fatal error C1083: Cannot open include file: 'motor.h': No such file or directory
+  param.cpp
+C:\Users\Love Panta\OneDrive\Documents\copeliasim\C_CPP\vrep_sim\src\actuator\param.cpp(1,9): fatal error C1083: Cannot open include file: 'param.h': No such file or directory
+  PID.cpp
+C:\Users\Love Panta\OneDrive\Documents\copeliasim\C_CPP\vrep_sim\src\control\PID.cpp(1,9): fatal error C1083: Cannot open include file: 'PID.h': No such file or directory
+  code.cpp
+C:\Users\Love Panta\OneDrive\Documents\copeliasim\C_CPP\vrep_sim\src\robot\code.cpp(1,9): fatal error C1083: Cannot open include file: 'robot_operation.h': No such file or directory
+  robot_operation.cpp
+C:\Users\Love Panta\OneDrive\Documents\copeliasim\C_CPP\vrep_sim\src\robot\robot_operation.cpp(1,10): fatal error C1083: Cannot open include file: 'robot_operation.h': No such file or directory
+  robo_init.cpp
+C:\Users\Love Panta\OneDrive\Documents\copeliasim\C_CPP\vrep_sim\src\robot\robo_init.cpp(1,9): fatal error C1083: Cannot open include file: 'robo_init.h': No such file or directory
+  connection.cpp
+C:\Users\Love Panta\OneDrive\Documents\copeliasim\C_CPP\vrep_sim\src\sim\connection.cpp(1,9): fatal error C1083: Cannot open include file: 'connection.h': No such file or directory
+  objectHandling.cpp
+C:\Users\Love Panta\OneDrive\Documents\copeliasim\C_CPP\vrep_sim\src\sim\objectHandling.cpp(1,9): fatal error C1083: Cannot open include file: 'objectHandling.h': No such file or directory
+  Generating Code...

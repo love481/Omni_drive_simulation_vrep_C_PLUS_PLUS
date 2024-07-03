@@ -4,7 +4,7 @@ This repo consists of four wheeled robot model in the robotics simulation softwa
 
 ## Installation
 
-In order to run the simulation,you need to install coppeliasim education version and visual studio.
+In order to run the simulation, you need to install coppeliasim education version and visual studio.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
